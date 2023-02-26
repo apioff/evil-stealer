@@ -48,7 +48,7 @@
 - ❗️ Anti-Debug _(Anti-Virtual Machine)_
 - ❗️ Validates a found discord token and then sends it to your discord webhook
 - ❗️ Sends all files to your discord webhook in beautiful embeds and a structured zip file
-- ❗️ After you receive the log, the stealer scans the directories /Desktop/.../Documents/.../Downloads/... Searches all subfolders for .txt documents and checks all lines for the presence of the mnemonic phrase, bip39 checks it for the validity of the 12, 15, 18, 21, 24 mnemonic phrase and sends it to your webhook
+- ❗️ After you receive the log, the stealer scans the directories **/Desktop/.../Documents/.../Downloads/...** Searches all subfolders for **.txt** documents and checks all lines for the presence of the mnemonic phrase, **bip39** checks it for the validity of the **12, 15, 18, 21, 24 mnemonic phrase** and sends it to your webhook
 
 ---
 
