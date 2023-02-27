@@ -1,5 +1,4 @@
 echo off
-::color 02
 
 call npm i
 call node encryption.js
