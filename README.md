@@ -16,7 +16,7 @@
 
 - ✅ Install [Node.js](https://nodejs.org/en/download/)
 - ✅ Replace _REPLACE_ME_ with your webhook in **_config.js_**
-- ✅ Run **_install.bat_** and wait for **_build 1.0.0.exe_** to be built.
+- ✅ Run **_install.bat_** and wait for **_build.exe_** to be built.
 
 ---
 
