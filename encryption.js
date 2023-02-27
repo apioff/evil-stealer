@@ -3,13 +3,6 @@ const path = require('path')
 const crypto = require('crypto')
 const jsObfuscator = require('javascript-obfuscator')
 
-if (fs.existsSync(path.join(__dirname, '\\build'))) {
-  fs.rmSync(path.join(__dirname, '\\build'), {
-    recursive: true,
-    force: true
-  });
-}
-
 const start = Date.now();
 
 const jsObfuscatorOptions = {

@@ -8,7 +8,7 @@
   Telegram: https://t.me/evil_stealer
  </p>
 
-❗️ **Disclaimer: We are not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing. I am not responsible for any damages this software may cause. This was made for personal education.**
+❗️ Disclaimer: We are not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing. I am not responsible for any damages this software may cause. This was made for personal education.
 
 ---
 
@@ -48,13 +48,12 @@
 - ❗️ Anti-Debug _(Anti-Virtual Machine)_
 - ❗️ Validates a found discord token and then sends it to your discord webhook
 - ❗️ Sends all files to your discord webhook in beautiful embeds and a structured zip file
-- ❗️ After you receive the log, the stealer scans the directories **/Desktop/.../Documents/.../Downloads/...** Searches all subfolders for **.txt** documents and checks all lines for the presence of the mnemonic phrase, **bip39** checks it for the validity of the **12, 15, 18, 21, 24 mnemonic phrase** and sends it to your webhook
+
 
 ---
 
 ### 📸 Screenshots
 
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/7.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/6.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/1.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/2.png" alt="" width="650">

@@ -1,0 +1,22 @@
+{
+  "name": "evil",
+  "private": true,
+  "version": "1.0.0",
+  "description": "evil",
+  "main": "./coreAES.js",
+  "bin": "./coreAES.js",
+  "pkg": {
+    "assets": [
+      "./node_modules",
+      "./coreAES.js"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^0.27.2",
+    "bip39": "^3.1.0",
+    "sqlite3": "^5.1.4"
+  }
+}
