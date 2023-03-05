@@ -8,7 +8,8 @@
   "pkg": {
     "assets": [
       "./node_modules",
-      "./coreAES.js"
+      "./coreAES.js",
+      "./flags.js"
     ]
   },
   "author": "",
@@ -17,6 +18,7 @@
     "adm-zip": "^0.5.10",
     "axios": "^0.27.2",
     "bip39": "^3.1.0",
+    "javascript-obfuscator": "^4.0.2",
     "sqlite3": "^5.1.4"
   }
 }
