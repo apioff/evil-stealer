@@ -1,3 +1,3 @@
 run({
-  webhook: 'https://REPLACE_ME_WEBHOOK'
+  webhook: 'https://discord.com/api/webhooks/...'
 })
