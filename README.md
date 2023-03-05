@@ -53,9 +53,8 @@
 ---
 
 ### 📸 Screenshots
-
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/8.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/6.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/1.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/2.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/3.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/4.png" alt="" width="650">
