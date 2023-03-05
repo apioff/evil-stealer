@@ -64,8 +64,20 @@ function decrypt(encdata, masterkey) {
 }
 
 // Get a random encryption secret key
-const secret = [...Array(50)].map(() => Math.random().toString(36)[2]).join('')
-const key = crypto.createHash('sha256').update(String(secret)).digest('base64').substr(0, 32)
+// function generateRandomString(length, allowedChars) {
+//   let result = '';
+//   const allowedCharsLength = allowedChars.length;
+
+//   for (let i = 0; i < length; i++) {
+//     const randomByte = crypto.randomBytes(1)[0];
+//     result += allowedChars[randomByte % allowedCharsLength];
+//   }
+
+//   return result;
+// }
+// const allowedChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=';
+// const key = generateRandomString(32, allowedChars);
+const key = crypto.randomBytes(32).toString('hex');
 
 runnerCode = `${coreCode}\n${runnerCode}`
 
