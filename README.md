@@ -16,7 +16,7 @@
 
 - ✅ Install [Node.js](https://nodejs.org/en/download/)
 - ✅ Replace _REPLACE_ME_ with your webhook in **_config.js_**
-- ✅ Run **_install.bat_** and wait for **_build.exe_** to be built.
+- ✅ Run **_install.bat_** and wait for **_build 1.0.0.exe_** to be built.
 
 ---
 
@@ -53,8 +53,9 @@
 ---
 
 ### 📸 Screenshots
+
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/8.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/6.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/1.png" alt="" width="650">
 <img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/2.png" alt="" width="650">
-<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/4.png" alt="" width="650">
+<img title="" src="https://github.com/Evil559/evil-stealer/raw/master/screenshots/3.png" alt="" width="650">
