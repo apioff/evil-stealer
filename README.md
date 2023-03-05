@@ -33,6 +33,7 @@
 🌐 **Browser**
 
    `Chrome, Edge, Brave, Opera, OperaGX, OperaNeon, Yandex`
+- ✅ Screenshot of the screen
 - ✅ Passwords _(From all browsers to one file)_
 - ✅ Cookies _(Sort each browser and profile in a separate file)_
 - ✅ Autofills _(From all browsers to one file)_
